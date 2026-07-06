@@ -1,10 +1,14 @@
-# Hi there 👋 I'm Sevinch Shodmonova
+# Hi 👋, I'm Sevinch Shodmonova
 
-## 💻 Junior Backend Developer
+## Junior Backend Developer
 
-I am currently studying Full Stack Web Development at Najot Ta'lim and pursuing a Bachelor's degree in Information Systems and Software Engineering at Japan Digital University.
+🎓 Bachelor's student in Information Systems and Software Engineering at Japan Digital University
 
-### 🚀 Tech Stack
+📚 Currently studying Full Stack Web Development at Najot Ta'lim
+
+🌱 Currently learning React & Next.js
+
+## 💻 Tech Stack
 
 - Node.js
 - Express.js
@@ -13,18 +17,17 @@ I am currently studying Full Stack Web Development at Najot Ta'lim and pursuing 
 - JavaScript
 - TypeScript
 - JWT Authentication
-- REST API
+- REST APIs
+- Git & GitHub
 
-### 🌱 Currently Learning
+## 🎯 Goals
 
-- React
-- Next.js
+- Become a professional Full Stack Developer
+- Contribute to open-source projects
+- Work in an international IT company
+- Build scalable web applications
 
-### 🎯 Goal
-
-To become a professional Full Stack Developer and work internationally.
-
-### 📫 Connect with me
+## 📫 Connect with me
 
 - LinkedIn
 - GitHub
