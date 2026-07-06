@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Sevinch Shodmonova
 
-<!--
-**jdu215089/jdu215089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Junior Backend Developer
 
-Here are some ideas to get you started:
+I am currently studying Full Stack Web Development at Najot Ta'lim and pursuing a Bachelor's degree in Information Systems and Software Engineering at Japan Digital University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- Node.js
+- Express.js
+- NestJS
+- PostgreSQL
+- JavaScript
+- TypeScript
+- JWT Authentication
+- REST API
+
+### 🌱 Currently Learning
+
+- React
+- Next.js
+
+### 🎯 Goal
+
+To become a professional Full Stack Developer and work internationally.
+
+### 📫 Connect with me
+
+- LinkedIn
+- GitHub
